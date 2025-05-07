@@ -1,5 +1,5 @@
 # Facebook Data Scraper.
-![](http://raselsplanet.com/media/data_sraping_Rasels_Planet_2.jpg)
+
 
 # Project Purpose
 * Thesis (A Comparative Sentiment Analysis On Bengali Facebook Posts)
@@ -23,7 +23,6 @@ Facebook Web Scraper is a open source project to grab data from facebok.It is de
 
 ### N.B. - This project totally maintained Facebook’s rules and regulations. This project was built for my thesis purpose.
 
-#### For more please visit - http://raselsplanet.com/project/facebook-data-scraper/
 
 
 
